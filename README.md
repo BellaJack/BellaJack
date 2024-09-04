@@ -1,6 +1,6 @@
-# Hi there, I'm Giacomo 👋
+# Hi 👋 my name is Giacomo 
 
-I'm a Front End Developer from Italy with passion for Accessibility, User Experience, Interaction Design and Web Performance.
+I'm a Senior Front End Developer from Italy with passion for Accessibility, User Experience, Interaction Design and Web Performance.
 
 <!-- SKILLS -->
 
