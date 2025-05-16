@@ -1,6 +1,10 @@
 # Bella vez! 👋 My name is Giacomo 
 
-I'm a Senior Front End Developer from Italy with passion for Accessibility, User Experience, Interaction Design and Web Performance.
+I'm a **Design Engineer passionate about User Experience and Accessibility**, with a strong background in the creation and development of high-performing and inclusive web and mobile applications.
+
+**In my role as Design Engineer and Senior Frontend Developer**, I focus on the development of web and mobile applications, paying particular attention to performance and accessibility. I contribute to significantly improving the user experience by **reducing loading times** and ensuring compatibility across all devices.
+
+**I am a creative and proactive problem solver** with a strong passion for technological innovation. I enjoy working in teams, sharing my knowledge and collaborating with other professionals to achieve common goals.
 
 <!-- SKILLS -->
 ## Skills
