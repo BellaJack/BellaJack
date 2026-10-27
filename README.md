@@ -21,6 +21,8 @@ I'm a **Design Engineer passionate about User Experience and Accessibility**, wi
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![AstroJs](https://img.shields.io/badge/Astro-020420?style=for-the-badge&logo=astro&logoColor=white)
 <!-- EXPERIENCE -->
 
 <!-- EDUCATION -->
